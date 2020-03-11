@@ -1,0 +1,4 @@
+
+setting_configration
+server.js : 8 //provide your client id 
+server.js : 9 //provide your client secret
